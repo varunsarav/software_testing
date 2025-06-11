@@ -73,8 +73,8 @@ Public test report & results are available here:
 
 ## 📇 Contact / Project Maintainer
 
-- **Name:** [Varun]  
-- **Email:** [varunsaravanan2004@gmail.com]  
+- **Name:** Varun  
+- **Email:** varunsaravanan2004@gmail.com  
 - **Project Tool:** TestCollab (See link above for reports)
 
 ---
